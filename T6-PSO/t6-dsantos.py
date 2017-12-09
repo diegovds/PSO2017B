@@ -1,3 +1,7 @@
+#	Diego Viana dos Santos
+#	Script em Python que retorna consultas JSON utilizando o api #advisor da Climatempo. 
+#	Após o retorno das consultas é realizada a exibição das #informações retornadas por meio da biblioteca gráfica Tkinter
+
 #!/usr/bin/env python3
 
 import json, requests
